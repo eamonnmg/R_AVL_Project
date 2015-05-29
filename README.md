@@ -1,5 +1,5 @@
 # Analysing and Visualising AVL and GTFS data with R
-The aim of this project was to investigate the potential benefits big data can lend to public transport systems. Specifically the investigations involved utilising the statistical programming language R to process and analyse publicly available data sets relating to the Dublin Bus system. The graphical visualisation of the Dublin Bus system with R was alas also investigated.
+The aim of this project was to investigate the potential benefits big data can lend to public transport systems. Specifically the investigations involved utilising the statistical programming language R to process, analyse and visualise publicly available data sets relating to the Dublin Bus system.
 
 The project was carried out as part of my undergraduate course work for a 4th year module called Emerging Technologies. The goal of the module was to investigate some emerging technology that I had not otherwise formally studied. Hypothesis where then proposed and tested via a software artefact. 
 
